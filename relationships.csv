@@ -1,0 +1,46 @@
+source,target,relationship
+Xylem,Integrity Series Pump,PRODUCES
+Flowserve,RedRaven IoT Platform,PRODUCES
+Gorman-Rupp,Magnetic Drive Pumps,PRODUCES
+Franklin Electric,Submersible Pumps,PRODUCES
+Xylem,Water Infrastructure,OPERATES_IN
+Flowserve,Industrial Markets,OPERATES_IN
+Gorman-Rupp,Municipal Markets,OPERATES_IN
+Franklin Electric,Residential Water Supply,OPERATES_IN
+Sustainability Goals,Water Conservation,TARGETS
+Net Zero Goals,Carbon Emissions Reduction,TARGETS
+Sustainability Goals,Xylem,IMPLEMENTED_BY
+Digital Transformation Strategy,Flowserve,IMPLEMENTED_BY
+Net Zero Goals,Gorman-Rupp,IMPLEMENTED_BY
+Net Zero Goals,Industrial Markets,APPLIES_TO
+Xylem,Industrial Market,SERVES
+Flowserve,Industrial Market,SERVES
+Franklin Electric,Industrial Market,SERVES
+Magnetic Drive Pumps,Water Systems,BELONGS_TO
+Net Zero Goals,Carbon Emissions Reduction,ACHIEVES
+Flowserve,North America,PARTICIPATES_IN
+Xylem,North America,PARTICIPATES_IN
+Gorman-Rupp,Europe,PARTICIPATES_IN
+Franklin Electric,Asia,PARTICIPATES_IN
+Xylem,Pentair,COMPETES_WITH
+Xylem,Grundfos,COMPETES_WITH
+Flowserve,Pentair,COMPETES_WITH
+Flowserve,Ingersoll Rand,COMPETES_WITH
+Xylem,Water Scarcity,FOCUSES_ON
+Net Zero Goals,Decarbonization,FOCUSES_ON
+Flowserve,Operational Efficiency,FOCUSES_ON
+Sustainability Goals,Global Impact,FOCUSES_ON
+RedRaven IoT Platform,IoT Platforms,BELONGS_TO
+Integrity Series Pump,Pumps,BELONGS_TO
+Submersible Pumps,Pumps,BELONGS_TO
+Xylem,Digital Transformation Strategy,IMPLEMENTED_BY
+Franklin Electric,Water Conservation,ACHIEVES
+Gorman-Rupp,Water Conservation,ACHIEVES
+Integrity Series Pump,High Efficiency,FEATURES
+RedRaven IoT Platform,Predictive Maintenance,FEATURES
+Magnetic Drive Pumps,Corrosion Resistant,FEATURES
+Submersible Pumps,High Flow Rate,FEATURES
+Gorman-Rupp,Drinking Water Pumps,PRODUCES
+Gorman-Rupp,Wastewater Pumps,PRODUCES
+Drinking Water Pumps,Water Supply Market,BELONGS_TO
+Wastewater Pumps,Industrial Market,BELONGS_TO
